@@ -1,0 +1,6 @@
+com\slack\JMSClientConnMessage.class
+com\slack\ServerHandler.class
+com\slack\AcknowledgeMode.class
+com\slack\JMSMessage.class
+com\slack\DeliverMode.class
+com\slack\SlackServer.class

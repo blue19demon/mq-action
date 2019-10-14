@@ -1,0 +1,1 @@
+java -jar -Dfile.encoding=utf-8 -Dconf=conf.properties slackServer.jar
